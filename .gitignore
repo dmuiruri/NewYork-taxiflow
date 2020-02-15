@@ -1,0 +1,7 @@
+# Emacs backup files
+*.~
+
+# byte code
+__pycache__/
+
+# local
