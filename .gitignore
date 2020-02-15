@@ -3,5 +3,6 @@
 
 # byte code
 __pycache__/
+.ipynb_checkpoints/
 
 # local
